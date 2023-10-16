@@ -1,0 +1,6 @@
+34322,  HAITEN,  6.0,  5,  Available
+4334,  HITEN,  56.0,  77,  Not Available
+878,  ASASA,  4.9E-324,  1,  Available
+868,  BAOTHUVCL,  5676.0,  23,  Available
+123,  SDFSFSFSF,  12.0,  12,  Available
+69,  CHOEM400LOC,  23.56,  6,  Not Available
